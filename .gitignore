@@ -1,0 +1,9 @@
+.idea
+__pycache__
+
+// Environment if you don't want to save the Environment variables.
+
+venv/
+
+// output files
+*.csv
